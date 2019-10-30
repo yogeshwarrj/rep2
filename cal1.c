@@ -16,5 +16,6 @@ case 3: printf("mul=%d",a*b);
         break;
 case 4: printf("div=%d",a/b);
         break;
+default:printf("Invalid input");
 }
 }
